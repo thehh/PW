@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout 
+  android:id="@+id/LL01" 
+  android:layout_width="fill_parent" 
+  android:layout_height="fill_parent" 
+  android:orientation="vertical"
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:textColor="@color/negro"
+  android:background="@color/blanco">
+
+    <LinearLayout 
+      android:id="@+id/LL02" 
+      android:orientation="horizontal"
+      android:layout_width="wrap_content" 
+      android:layout_height="wrap_content"
+      android:textColor="@color/negro">      
+		<Button
+		  android:id="@+id/btnLoad"
+		  android:layout_height="wrap_content" 
+		  android:drawableLeft="@drawable/refresh_32" 
+		  android:text="@string/refresh" 
+		  android:layout_width="fill_parent">
+		</Button>
+    </LinearLayout>
+    
+	<ListView
+	  android:id="@+id/lstData" 
+	  android:layout_width="wrap_content" 
+	  android:layout_height="wrap_content"
+	  android:padding="2dip" 
+	  android:background="@color/blanco"
+	  android:textColor="@color/negro"
+	  android:cacheColorHint="@color/negro"
+	  android:smoothScrollbar="true">
+	</ListView>	
+
+</LinearLayout>
+ 

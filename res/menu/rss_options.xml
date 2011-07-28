@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/refresh" android:id="@+id/itemRefresh" android:icon="@drawable/refresh_64"></item><item android:title="@string/menuItemBarcode" android:id="@+id/itemConsulta" android:icon="@drawable/barcode_64"></item>
+    
+    <item android:title="@string/menuItemMapa" android:id="@+id/itemMapa" android:icon="@drawable/map_green_64"></item>
+    
+    <item android:id="@+id/itemTwitter" android:title="@string/Twitter" android:icon="@drawable/twitter_64"></item>
+    
+</menu>

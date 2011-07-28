@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="msg">Mensaje!</string>
+    <string name="app_name">Consulta de Precios</string>
+    <string name="clickHandler">clickHandler</string>
+    <string name="scan">Leer Codigo de Barras</string>
+    <string name="result_succeeded">Código Encontrado</string>
+    <string name="result_failed">No se encontró el código</string>
+    <string name="result_failed_why">El usuario apretó el botón volver</string>
+    <string name="menuItemBarcode">Consultar</string>
+    <string name="menuItemMapa">Mapa</string>
+    <string name="menuItemRSS">Ofertas</string>
+    <string name="menuItemOpciones">Opciones</string>
+    <string name="menuItemSalir">Salir</string>
+    <string name="contextMenuItem1Item1">Item 1</string>
+    <string name="contextMenuItem2Item2">Item 2</string>
+    <string name="locationString">Ubicación: </string>
+    <string name="dialogAtencion">Atencion!</string>
+    <string name="error">Error</string>
+    <string name="labelBusqueda"> Artículo: </string>
+    <string name="stringVacio"></string>
+    <string name="labelBotonBusqueda">    ...    </string>
+    
+    <color name="blanco">#FFFFFF</color>
+    <color name="verde">#006B39</color>
+    <color name="negro">#000000</color>
+    <string name="menuOpTexto">Busca un Articulo</string>
+    <string name="menuOpBarcode">Lee un Codigo de Barras</string>
+    <string name="fonoFonocompras">Compra por Telefono</string>
+    <string name="warning">Atencion</string>
+    <string name="refresh">Refrescar</string>
+    <color name="turquesa">#3F7F62</color>
+    <color name="anaranjado">#FF7C2B</color>
+    <string name="Twitter">Twitter</string>
+    
+</resources>
